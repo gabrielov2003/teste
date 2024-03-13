@@ -2,6 +2,7 @@
 
 ## Installation
 
+
 - Using the IDE built-in plugin system:
 
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "Styled DataFrame Viewer"</kbd> >
